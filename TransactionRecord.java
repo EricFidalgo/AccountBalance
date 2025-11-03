@@ -1,5 +1,3 @@
-package HW12;
-
 public class TransactionRecord {
     private int accountNumber;
     private double amount;

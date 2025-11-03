@@ -1,5 +1,3 @@
-package HW12;
-
 public class Account {
     private int accountNumber;
     private String customerName;

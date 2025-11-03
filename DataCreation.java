@@ -1,9 +1,7 @@
-package HW12;
-
 import java.io.PrintWriter;
-import java.util.Locale;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Locale;
 
 public class DataCreation {
     public static void main(String[] args) {

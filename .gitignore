@@ -1,0 +1,8 @@
+# Compiled Java class files
+*.class
+
+# Generated data files
+oldmast.txt
+trans.txt
+newmast.txt
+log.txt
