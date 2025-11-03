@@ -1,5 +1,7 @@
 # Account Balance File Matching
 
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/AccountBalance)**
+
 ## Project Description
 
 This project is a simple batch processing system written in Java that manages bank account balances. It reads a master file of customer accounts and a file of recent transactions. The program updates the account balances based on the transactions and generates a new master file with the updated information. Any transactions for accounts that do not exist in the master file are recorded in a separate log file.
