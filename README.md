@@ -1,6 +1,6 @@
 # Account Balance File Matching
 
-**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/AccountBalance)**
+**[→ View Project Page](https://ericfidalgo.github.io/portfolio/projects/project.html?id=account-balance-updater)**
 
 ## Project Description
 
